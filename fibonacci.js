@@ -1,10 +1,12 @@
-let x = 6;
+let x = 8;
 let a = 0;
-let b = 1;
+let b = 0;
+let c = 1;
 for(let i=1; i<=x; i++){
     console.log(a);
 
-    let c = a+b;
+    let d = a+b+c;
     a=b;
     b=c;
+    c=d;
 }
