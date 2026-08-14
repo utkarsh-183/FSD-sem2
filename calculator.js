@@ -1,6 +1,6 @@
-let choice = 4;
+let choice = 1;
 let a = 30;
-let b =  0;
+let b =  33;
 switch(choice){
     case 1:
         console.log(a+b);
