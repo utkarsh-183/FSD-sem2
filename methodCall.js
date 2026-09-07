@@ -9,3 +9,4 @@ const person = {
 let p1 = person.greet;
 
 console.log(person.greet());
+
